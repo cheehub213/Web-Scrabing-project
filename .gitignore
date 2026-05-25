@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+results.db
+*.db
+
+# Local generated/course files
+*.pptx
+Ch*.pdf
+ch*.pdf
+chapter*.pdf
+crypto*.pdf
+lab*.pdf
